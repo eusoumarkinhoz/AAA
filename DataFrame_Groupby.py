@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-<<<<<<< HEAD
-__author__ = 'aucun des trois'
-=======
-__author__ = 'shahaf'
->>>>>>> 6438c8cdce9363a786eeb21551c249ad852e1e04
+__author__ = 'MasterNoConflict'
 
 import pandas as pd
 import numpy as np
